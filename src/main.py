@@ -1,0 +1,2 @@
+def elo():
+	print("SIEMA")
